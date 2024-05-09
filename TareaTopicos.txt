@@ -1,1 +1,2 @@
 "Este es mi primer archivo en git" 
+Hola mi nombre es rusell soy un guía explorador
